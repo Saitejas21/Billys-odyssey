@@ -10,7 +10,7 @@ PS : It's my First Game, It's Version is 1.0 and future updates will be made wit
 
 ...................................................................................................................................................................................
 
-#Install instructions
+## Install instructions
 
 Download the game from : https://saitejas21.itch.io/billys-odyssey
 
