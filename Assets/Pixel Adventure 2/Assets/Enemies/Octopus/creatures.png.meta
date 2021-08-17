@@ -1,0 +1,1716 @@
+fileFormatVersion: 2
+guid: 682a5a27d5b8f0f48a2e70130e9d1304
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 883169853745958128
+    second: creatures_0
+  - first:
+      213: -5835395460045622604
+    second: creatures_1
+  - first:
+      213: 4009884456524302465
+    second: creatures_2
+  - first:
+      213: -6847764920030992259
+    second: creatures_3
+  - first:
+      213: 4068140767086656707
+    second: creatures_4
+  - first:
+      213: 8005814828426152072
+    second: creatures_5
+  - first:
+      213: 1780677263946428560
+    second: creatures_6
+  - first:
+      213: -9131931714415901820
+    second: creatures_7
+  - first:
+      213: 2732811783048934080
+    second: creatures_8
+  - first:
+      213: -3218119101569545086
+    second: creatures_9
+  - first:
+      213: -8126939990828727231
+    second: creatures_10
+  - first:
+      213: -1441823767958687375
+    second: creatures_11
+  - first:
+      213: -6808679217422993830
+    second: creatures_12
+  - first:
+      213: -1427970859110425963
+    second: creatures_13
+  - first:
+      213: -8944417501299502230
+    second: creatures_14
+  - first:
+      213: 2423277424943732547
+    second: creatures_15
+  - first:
+      213: 5870797995710737897
+    second: creatures_16
+  - first:
+      213: -5993850177256739338
+    second: creatures_17
+  - first:
+      213: -5835799220316884436
+    second: creatures_18
+  - first:
+      213: -643740683434625992
+    second: creatures_19
+  - first:
+      213: 4231139298401151299
+    second: creatures_20
+  - first:
+      213: -1326277274527083221
+    second: creatures_21
+  - first:
+      213: 8605229967764050707
+    second: creatures_22
+  - first:
+      213: -1831951477750702128
+    second: creatures_23
+  - first:
+      213: 5719713693910566873
+    second: creatures_24
+  - first:
+      213: -4660420319531875908
+    second: creatures_25
+  - first:
+      213: -4201577679781860865
+    second: creatures_26
+  - first:
+      213: -2836520861181365959
+    second: creatures_27
+  - first:
+      213: 3230384599233579288
+    second: creatures_28
+  - first:
+      213: 3171175576246315280
+    second: creatures_29
+  - first:
+      213: 3218304016247853201
+    second: creatures_30
+  - first:
+      213: 300705439859474381
+    second: creatures_31
+  - first:
+      213: 560416092158707623
+    second: creatures_32
+  - first:
+      213: 4844880219019665945
+    second: creatures_33
+  - first:
+      213: 9093783683371495015
+    second: creatures_34
+  - first:
+      213: 8370946141775002734
+    second: creatures_35
+  - first:
+      213: -2248437729633422972
+    second: creatures_36
+  - first:
+      213: 7433294483721275009
+    second: creatures_37
+  - first:
+      213: 6091289911249631839
+    second: creatures_38
+  - first:
+      213: -8431454130975012783
+    second: creatures_39
+  - first:
+      213: -3772769806392328103
+    second: creatures_40
+  - first:
+      213: -7084099730910201969
+    second: creatures_41
+  - first:
+      213: 2636866162522826530
+    second: creatures_42
+  - first:
+      213: -3016711930974557505
+    second: creatures_43
+  - first:
+      213: -3485364322776645303
+    second: creatures_44
+  - first:
+      213: -8845766573100518860
+    second: creatures_45
+  - first:
+      213: -3351516885412671748
+    second: creatures_46
+  - first:
+      213: -6749019210583245886
+    second: creatures_47
+  - first:
+      213: 3231368199575628379
+    second: creatures_48
+  - first:
+      213: -2117974898167151476
+    second: creatures_49
+  - first:
+      213: -8369709716173179616
+    second: creatures_50
+  - first:
+      213: 5082365137672411688
+    second: creatures_51
+  - first:
+      213: -2558911384973099668
+    second: creatures_52
+  - first:
+      213: -8249086188000176755
+    second: creatures_53
+  - first:
+      213: 5778622345684094053
+    second: creatures_54
+  - first:
+      213: -8028403426936544924
+    second: creatures_55
+  - first:
+      213: -4904298832599170711
+    second: creatures_56
+  - first:
+      213: -1847185434007161774
+    second: creatures_57
+  - first:
+      213: 6648906306038937180
+    second: creatures_58
+  - first:
+      213: -5167627625640114789
+    second: creatures_59
+  - first:
+      213: 2150147946917986396
+    second: creatures_60
+  - first:
+      213: -8560714704936783172
+    second: creatures_61
+  - first:
+      213: -1276639737174022983
+    second: creatures_62
+  - first:
+      213: 434126433236817939
+    second: creatures_63
+  - first:
+      213: 7903017977154096871
+    second: creatures_64
+  - first:
+      213: 4701120973896082684
+    second: creatures_65
+  - first:
+      213: 7150927918682597568
+    second: creatures_66
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: creatures_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 257
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc8cd08d46a14c00800000000000000
+      internalID: 883169853745958128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2bd001fb2840fa0800000000000000
+      internalID: -5835395460045622604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 257
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188cd7dfaa8f5a730800000000000000
+      internalID: 4009884456524302465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 257
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78eb24161ad7f0a0800000000000000
+      internalID: -6847764920030992259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 257
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc3c764970f47830800000000000000
+      internalID: 4068140767086656707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 258
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88845e97b2e5a1f60800000000000000
+      internalID: 8005814828426152072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 257
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0903421898c36b810800000000000000
+      internalID: 1780677263946428560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 257
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483cd112d7cd44180800000000000000
+      internalID: -9131931714415901820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 257
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c232ae66d5ece520800000000000000
+      internalID: 2732811783048934080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 225
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c4c0a3ab1f653d0800000000000000
+      internalID: -3218119101569545086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 225
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144ccbff22f473f80800000000000000
+      internalID: -8126939990828727231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 225
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1717b121cec9dfbe0800000000000000
+      internalID: -1441823767958687375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_12
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 225
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56faef5356b281a0800000000000000
+      internalID: -6808679217422993830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_13
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 225
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a1d11c114de2ce0800000000000000
+      internalID: -1427970859110425963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_14
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 225
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6391401cab0fd380800000000000000
+      internalID: -8944417501299502230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_15
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 225
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3479ef99af531a120800000000000000
+      internalID: 2423277424943732547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_16
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 225
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ede96a1ca3497150800000000000000
+      internalID: 5870797995710737897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_17
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 225
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd23b3450191dca0800000000000000
+      internalID: -5993850177256739338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 193
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22b28c4783130fa0800000000000000
+      internalID: -5835799220316884436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 193
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83479645249f017f0800000000000000
+      internalID: -643740683434625992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 193
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349656c36c608ba30800000000000000
+      internalID: 4231139298401151299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 193
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25d32288dd189de0800000000000000
+      internalID: -1326277274527083221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 193
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3135f1f201beb6770800000000000000
+      internalID: 8605229967764050707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_23
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 193
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfdaea46d99396e0800000000000000
+      internalID: -1831951477750702128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_24
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 193
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d70a7edc41806f40800000000000000
+      internalID: 5719713693910566873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_25
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 193
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb14a4e496cd25fb0800000000000000
+      internalID: -4660420319531875908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_26
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 193
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff964647c5ff0b5c0800000000000000
+      internalID: -4201577679781860865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931bc472e47a2a8d0800000000000000
+      internalID: -2836520861181365959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 161
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819c53d7da1a4dc20800000000000000
+      internalID: 3230384599233579288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_29
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 161
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0196e8e8267420c20800000000000000
+      internalID: 3171175576246315280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_30
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 161
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1909aa39376b9ac20800000000000000
+      internalID: 3218304016247853201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 161
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcff9dc11025c2400800000000000000
+      internalID: 300705439859474381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_32
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 160
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a74883777ff6c700800000000000000
+      internalID: 560416092158707623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_33
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 161
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912ebf1d3e87c3340800000000000000
+      internalID: 4844880219019665945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_34
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 161
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ee99f341c933e70800000000000000
+      internalID: 9093783683371495015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_35
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 161
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cfc6e2a239b2470800000000000000
+      internalID: 8370946141775002734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_36
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 131
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4813d913cc1fbc0e0800000000000000
+      internalID: -2248437729633422972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_37
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 129
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186c31d13fd582760800000000000000
+      internalID: 7433294483721275009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_38
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 129
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a74f7b6eb988450800000000000000
+      internalID: 6091289911249631839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_39
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 129
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1580c3fb3257dfa80800000000000000
+      internalID: -8431454130975012783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_40
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 130
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9508aae99dd64abc0800000000000000
+      internalID: -3772769806392328103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_41
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 130
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8738a1f3d830bd90800000000000000
+      internalID: -7084099730910201969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_42
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 129
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227ab69ddc7089420800000000000000
+      internalID: 2636866162522826530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_43
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 129
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba24946b7c7226d0800000000000000
+      internalID: -3016711930974557505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 128
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941041c5d9f71afc0800000000000000
+      internalID: -3485364322776645303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432b15c2b268d3580800000000000000
+      internalID: -8845766573100518860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_46
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 97
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe014a56250d71d0800000000000000
+      internalID: -3351516885412671748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_47
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 97
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbf5ea29caa652a0800000000000000
+      internalID: -6749019210583245886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ae23ac14028dc20800000000000000
+      internalID: 3231368199575628379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_49
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 96
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c848d873d017b92e0800000000000000
+      internalID: -2117974898167151476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_50
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 97
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025bc569b51d8db80800000000000000
+      internalID: -8369709716173179616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_51
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 98
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a1bc94a20388640800000000000000
+      internalID: 5082365137672411688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_52
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 97
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6db9fe27abec7cd0800000000000000
+      internalID: -2558911384973099668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_53
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 97
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d851baa41db558d80800000000000000
+      internalID: -8249086188000176755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 65
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c82ad286ac13050800000000000000
+      internalID: 5778622345684094053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_55
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4612be79e91659090800000000000000
+      internalID: -8028403426936544924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_56
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 65
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9614092223e60fbb0800000000000000
+      internalID: -4904298832599170711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2543ab372aa7d56e0800000000000000
+      internalID: -1847185434007161774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_58
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 66
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c563e44de09a54c50800000000000000
+      internalID: 6648906306038937180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_59
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 64
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95c932cd06e848b0800000000000000
+      internalID: -5167627625640114789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_60
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 65
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50059e6a2cd6dd10800000000000000
+      internalID: 2150147946917986396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_61
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 65
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2b7cc155b323980800000000000000
+      internalID: -8560714704936783172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b428974ce6784ee0800000000000000
+      internalID: -1276639737174022983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_63
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31810b0e0b3560600800000000000000
+      internalID: 434126433236817939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_64
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eecbcd6af82dad60800000000000000
+      internalID: 7903017977154096871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_65
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 32
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4e63f3e9cbd3140800000000000000
+      internalID: 4701120973896082684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creatures_66
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 32
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8ef770e033d3360800000000000000
+      internalID: 7150927918682597568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
